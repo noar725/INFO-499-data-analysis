@@ -1,0 +1,66 @@
+﻿Fields,Total,"Enough food, but not always the types wanted",Sometimes not enough to eat,Often not enough to eat,Did not report
+,,,,,
+Total,"47,443","40,583","23,282","8,146","6,757"
+"Food Sufficiency before Mar 13, 2020 ",,,,,
+    Enough of the types of food wanted,"24,622","22,369","7,208","3,245",-
+"    Enough food, but not always the types wanted","35,799","33,617","13,324",-,"1,399"
+    Sometimes not enough to eat,"16,476","7,356","16,864",409,-
+    Often not enough to eat,"8,697",-,"5,019","7,167",-
+    Did not report,"6,486",-,-,-,"6,486"
+Reason for recent food insufficiency ,,,,,
+    Couldn’t afford to buy more food,"32,497","23,219","22,104","8,146",-
+    Couldn’t get out to buy food,"14,927","15,109","5,303",-,-
+    Afraid to go or didn’t want to go out to buy food,"25,649","24,784","3,427",-,-
+    Couldn’t get groceries or meals delivered to me,"16,608","16,597",400,347,-
+    The stores didn’t have the food I wanted,"31,272","28,960","12,717",777,-
+    Did not report,"8,948","5,740","3,120",-,"6,757"
+Free groceries or free meal in last 7 days ,,,,,
+    Yes,"17,454","11,182","12,102",409,"1,298"
+    No,"46,068","38,776","20,869","8,153","1,087"
+    Did not report,"7,352",-,"3,120",-,"6,370"
+Provider of free groceries or free meal ,,,,,
+    School or other programs aimed at children,"11,745","10,705","5,898",409,904
+"    	Food pantry or food bank","12,800","7,559","10,471",409,950
+    Home-delivered meal service like Meals on Wheels,"1,930",-,"1,930",-,-
+"    	Church, synagogue, temple, mosque or other religious organization","6,574","6,488","3,456",-,950
+    Shelter or soup kitchen,-,-,-,-,-
+    Other community program,"6,239","2,344","5,354",-,950
+"    Family, friends, or neighbors","7,479","6,756","4,567",-,-
+    Did not report,"45,685","38,776","20,928","8,153","6,751"
+Food-at-home ,,,,,
+    Mean amount spent (dollars),$18.31 ,$22.72 ,$35.28 ,$13.09 ,$102.51 
+    Did not report,"9,982","6,688","3,245",-,"6,381"
+Food-away-from-home ,,,,,
+    Mean amount spent (dollars),$11.38 ,$8.07 ,$43.25 ,$14.19 ,-
+    Did not report,"12,527","6,868","7,896",-,"6,495"
+Confidence in being able to afford food next four weeks ,,,,,
+"    	Not at all confident","20,087","6,673","15,820","8,146",-
+    Somewhat confident,"26,740","23,968","15,583",-,548
+    Moderately confident,"19,674","19,860","7,025",-,-
+    Very confident,"28,108","28,108",-,-,-
+    Did not report,"9,804","6,105","3,245",-,"6,495"
+Health status ,,,,,
+    Excellent,"27,076","24,968","10,620",-,888
+    Very good,"35,978","31,106","13,417","7,138",-
+    Good,"16,181","13,795","12,586","3,359",548
+    Fair,"21,403","18,442","11,723",409,-
+    Poor,"7,495","7,459",400,347,-
+    Did not report,"13,113","11,251","4,854",-,"6,381"
+"Frequency of feeling nervous, anxious, on edge ",,,,,
+    Not at all,"22,378","22,777","1,442",702,888
+    Several days,"38,069","32,011","20,127","7,154",548
+    More than half the days,"14,538","15,143","5,195",-,-
+    Nearly every day,"15,792","10,238","11,070","3,226",-
+    Did not report,"13,113","11,251","4,854",-,"6,381"
+Frequency of not being able to stop or control worrying ,,,,,
+    Not at all,"23,043","22,739","6,679",702,"1,087"
+    Several days,"36,772","33,714","12,401","7,154",-
+    More than half the days,"14,381","12,365","6,472",-,-
+    Nearly every day,"19,846","9,226","17,486","3,226",-
+    Did not report,"15,053","11,251","6,708",-,"6,381"
+Frequency of having little interest or pleasure in doing things ,,,,,
+    Not at all,"22,297","21,312","6,679",777,888
+    Several days,"34,447","27,598","16,517","7,138",-
+    More than half the days,"18,580","17,841","6,841",409,548
+    Nearly every day,"20,408","13,706","13,364","3,245",-
+    Did not report,"13,113","11,251","4,854",-,"6,381"

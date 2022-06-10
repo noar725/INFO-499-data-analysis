@@ -1,0 +1,379 @@
+﻿wk1Fields,Fields,Total,Enough of the types of food wanted,"Enough food, but not always the types wanted",Sometimes not enough to eat,Often not enough to eat,Did not report
+wk1Total,Total,"62,445","59,089","19,542","10,257","2,277","1,455"
+wk1    18 - 24,    18 - 24,"36,470","36,466",-,-,596,-
+wk1    25 - 39,    25 - 39,"36,780","34,042","16,436","8,052","2,174","1,455"
+wk1    40 - 54,    40 - 54,"23,813","21,785","9,544","6,039",-,-
+wk1    55 - 64,    55 - 64,"23,397","23,076","3,157","2,915",-,-
+wk1    65 and above,    65 and above,"22,402","22,224","4,353","2,238",-,-
+wk1Sex ,Sex ,,,,,,
+wk1    Male,    Male,"51,001","49,858","15,306","3,460",-,"1,455"
+wk1    Female,    Female,"37,718","35,802","11,855","9,779","2,277",-
+wk1Hispanic origin and Race ,Hispanic origin and Race ,,,,,,
+wk1    Hispanic or Latino (may be of any race),    Hispanic or Latino (may be of any race),"21,209","18,548","9,765","5,379",596,-
+"wk1    White alone, not Hispanic","    White alone, not Hispanic","48,195","48,386","7,284","2,980",-,"1,455"
+"wk1    Black alone, not Hispanic","    Black alone, not Hispanic","14,450","14,083","3,602","3,377",-,-
+"wk1    Asian alone, not Hispanic","    Asian alone, not Hispanic","20,046","16,484","15,790","5,492",-,-
+"wk1    Two or more races + Other races, not Hispanic","    Two or more races + Other races, not Hispanic","47,972","43,421","9,164","6,817","2,174",-
+wk1Education ,Education ,,,,,,
+wk1    Less than high school,    Less than high school,"19,357","17,548","4,081","6,324",-,-
+wk1    High school or GED,    High school or GED,"49,048","43,492","18,444","5,427",596,-
+wk1    Some college/associate’s degree,    Some college/associate’s degree,"25,842","23,070","9,689","7,518",-,-
+wk1    Bachelor’s degree or higher,    Bachelor’s degree or higher,"24,304","23,797","6,169",-,"2,174","1,455"
+wk1Marital status ,Marital status ,,,,,,
+wk1    Married,    Married,"44,162","42,738","14,257","7,231","2,277","1,455"
+wk1    Widowed,    Widowed,"5,628","5,136","2,007","1,256",-,-
+wk1    Divorced/separated,    Divorced/separated,"28,367","25,536","9,112","5,965",-,-
+wk1    Never married,    Never married,"43,327","39,174","9,028","6,058",-,-
+wk1    Did not report,    Did not report,"7,461","1,426","7,260",821,-,-
+wk1Respondent or household member experienced loss of employment income ,Respondent or household member experienced loss of employment income ,,,,,,
+wk1    Yes,    Yes,"55,234","50,116","18,849","7,865","2,277",-
+wk1    No,    No,"39,303","38,356","9,454","7,476",-,"1,455"
+wk1    Did not report,    Did not report,-,-,-,-,-,-
+wk1Respondent currently employed ,Respondent currently employed ,,,,,,
+wk1    Yes,    Yes,"61,022","57,310","14,483","5,034",-,"1,455"
+wk1    No,    No,"42,885","36,033","17,134","9,287","2,277",-
+wk1    Did not report,    Did not report,-,-,-,-,-,-
+wk1Reason for not working ,Reason for not working ,,,,,,
+wk1    Did not want to be employed,    Did not want to be employed,"10,129","10,100",638,-,-,-
+wk1    Sick with coronavirus symptoms,    Sick with coronavirus symptoms,892,892,-,-,-,-
+wk1    Caring for someone with coronavirus symptoms,    Caring for someone with coronavirus symptoms,-,-,-,-,-,-
+wk1    Caring for children not in school or daycare,    Caring for children not in school or daycare,"13,533","12,563","3,404","2,189",-,-
+wk1    Caring for an elderly person,    Caring for an elderly person,-,-,-,-,-,-
+wk1    Sick (not coronavirus related) or disabled,    Sick (not coronavirus related) or disabled,"4,992","4,946",492,-,-,-
+wk1    Retired,    Retired,"22,092","21,700","4,117",-,-,-
+wk1    Coronavirus pandemic related reduction in business (including furlough),    Coronavirus pandemic related reduction in business (including furlough),"12,173","8,656","9,057","3,138",596,-
+wk1    Laid off due to coronavirus pandemic,    Laid off due to coronavirus pandemic,"6,151","4,783","3,630",-,"2,174",-
+wk1    Employment closed temporarily due to the coronavirus pandemic,    Employment closed temporarily due to the coronavirus pandemic,"17,047","16,557","3,662",-,-,-
+wk1    Employment went out of business due to the coronavirus pandemic,    Employment went out of business due to the coronavirus pandemic,"2,334","2,334",-,-,-,-
+wk1    Other reason,    Other reason,"16,537","8,508","13,575","8,713",-,-
+wk1    Did not report,    Did not report,"61,022","57,310","14,483","5,034",-,"1,455"
+wk1Receiving pay for the time not working ,Receiving pay for the time not working ,,,,,,
+wk1    Using paid leave,    Using paid leave,"3,344","2,900",957,"1,256",-,-
+"wk1    Full pay, not taking leave","    Full pay, not taking leave","10,799","9,818",-,"2,793",-,-
+wk1    Partial pay,    Partial pay,"7,166","6,365","3,691",959,-,-
+wk1    No pay,    No pay,"41,225","33,706","16,098","9,280","2,277",-
+wk1    Did not report,    Did not report,"61,056","57,293","14,633","5,034",-,"1,455"
+wk1Household income ,Household income ,,,,,,
+"wk1    Less than $25,000","    Less than $25,000","15,910","15,348","2,052","2,598",-,-
+"wk1    $25,000 - $34,999","    $25,000 - $34,999","17,186","13,786","9,037","8,172",596,-
+"wk1    $35,000 - $49,999","    $35,000 - $49,999","41,871","42,808","13,636","4,083",-,-
+"wk1    $50,000 - $74,999","    $50,000 - $74,999","23,445","20,061","10,832","4,644","2,174",-
+"wk1    $75,000 - $99,999","    $75,000 - $99,999","22,183","22,178","3,326",-,-,-
+"wk1    $100,000 - $149,999","    $100,000 - $149,999","28,534","27,272","9,019",-,-,-
+"wk1    $150,000 - $199,999","    $150,000 - $199,999","12,764","12,810","1,747",-,-,-
+"wk1    $200,000 and above","    $200,000 and above","23,687","23,209","2,218",-,-,-
+wk1    Did not report,    Did not report,"14,462","13,914","4,019","2,800",-,"1,455"
+wk1Health status ,Health status ,,,,,,
+wk1    Excellent,    Excellent,"42,524","39,219","13,945","2,675",-,-
+wk1    Very good,    Very good,"46,265","46,011","6,458","6,298",596,-
+wk1    Good,    Good,"27,889","25,142","16,510","6,612",-,-
+wk1    Fair,    Fair,"13,931","13,764","3,333","2,404","2,174",-
+wk1    Poor,    Poor,"6,285","4,900",492,"3,891",-,-
+wk1    Did not report,    Did not report,"9,923","9,980","3,681","1,856",-,"1,455"
+"wk1Frequency of feeling nervous, anxious, on edge ","Frequency of feeling nervous, anxious, on edge ",,,,,,
+wk1    Not at all,    Not at all,"46,392","44,561","9,211","2,828",-,-
+wk1    Several days,    Several days,"42,658","37,745","17,585","6,272",-,-
+wk1    More than half the days,    More than half the days,"24,864","22,511","7,233","7,054",596,-
+wk1    Nearly every day,    Nearly every day,"21,769","19,332","8,631","4,551","2,174",-
+wk1    Did not report,    Did not report,"9,934","10,100","2,626","1,856",-,"1,455"
+wk1Frequency of not being able to stop or control worrying ,Frequency of not being able to stop or control worrying ,,,,,,
+wk1    Not at all,    Not at all,"49,392","49,176","6,766","2,828",-,-
+wk1    Several days,    Several days,"43,884","41,660","17,057","6,162",-,-
+wk1    More than half the days,    More than half the days,"20,869","17,950","6,627","7,724",596,-
+wk1    Nearly every day,    Nearly every day,"18,745","16,467","9,287","3,906","2,174",-
+wk1    Did not report,    Did not report,"9,934","10,100","2,626","1,856",-,"1,455"
+wk1Frequency of having little interest or pleasure in doing things ,Frequency of having little interest or pleasure in doing things ,,,,,,
+wk1    Not at all,    Not at all,"47,366","47,154","14,319","6,893",-,-
+wk1    Several days,    Several days,"35,794","32,749","11,065","6,059",596,-
+wk1    More than half the days,    More than half the days,"23,133","21,172","8,719","1,257",-,-
+wk1    Nearly every day,    Nearly every day,"13,814","11,330","6,599","4,523","2,174",-
+wk1    Did not report,    Did not report,"10,637","10,340","2,626","1,856",-,"1,455"
+"wk1Frequency of feeling down, depressed, or hopeless ","Frequency of feeling down, depressed, or hopeless ",,,,,,
+wk1    Not at all,    Not at all,"50,255","49,606","8,079","6,672",-,-
+wk1    Several days,    Several days,"38,935","37,430","17,080","5,978",-,-
+wk1    More than half the days,    More than half the days,"20,937","17,677","6,914","1,485",596,-
+wk1    Nearly every day,    Nearly every day,"15,889","12,429","8,308","5,379","2,174",-
+wk1    Did not report,    Did not report,"9,934","10,100","2,626","1,856",-,"1,455"
+wk1Covered by health insurance ,Covered by health insurance ,,,,,,
+wk1    Yes,    Yes,"57,791","55,397","13,849","9,801","2,174",-
+wk1    No,    No,"43,208","38,960","13,014","2,423",596,-
+wk1    Did not report or don’t know,    Did not report or don’t know,"11,570","11,170","3,547","1,856",-,"1,455"
+wk1Last month's mortgage or rent paid on time ,Last month's mortgage or rent paid on time ,,,,,,
+wk1    Yes,    Yes,"58,083","53,348","19,176","6,934","2,277",-
+wk1    No,    No,"12,467","10,063","5,395","7,781",-,-
+wk1    Payment was deferred,    Payment was deferred,"6,146","6,114","1,013",-,-,-
+wk1    Housing owned or payment not required,    Housing owned or payment not required,"12,762","11,221","3,777","3,643",-,-
+wk1    Did not report,    Did not report,"12,806","12,666","3,547","1,856",-,"1,455"
+wk1Confidence in paying next rent or mortgage ,Confidence in paying next rent or mortgage ,,,,,,
+wk1    No confidence,    No confidence,"19,960","13,795","8,046","5,049","2,174",-
+wk1    Slight confidence,    Slight confidence,"19,660","18,781","8,662","6,818",596,-
+wk1    Moderate confidence,    Moderate confidence,"23,546","18,147","15,633","5,945",-,-
+wk1    High confidence,    High confidence,"47,968","46,430","12,413",-,-,-
+wk1    Payment is/will be deferred,    Payment is/will be deferred,"10,293","10,249","1,013","1,360",-,-
+wk1    Did not report,    Did not report,"19,048","16,830","5,918","4,062",-,"1,455"
+wk1Free groceries or free meal in last 7 days ,Free groceries or free meal in last 7 days ,,,,,,
+wk1    Yes,    Yes,"19,687","15,920","11,606","3,794","2,174",-
+wk1    No,    No,"54,145","55,002","16,399","10,142",596,-
+wk1    Did not report,    Did not report,"2,288","1,721",-,-,-,"1,455"
+wk1Provider of free groceries or free meal ,Provider of free groceries or free meal ,,,,,,
+wk1    School or other programs aimed at children,    School or other programs aimed at children,"16,356","10,715","11,606","3,718","2,174",-
+wk1    Food pantry or food bank,    Food pantry or food bank,"7,585","7,603",472,-,-,-
+wk1    Home-delivered meal service like Meals on Wheels,    Home-delivered meal service like Meals on Wheels,"6,190","6,190",-,-,-,-
+"wk1    Church, synagogue, temple, mosque or other religious organization","    Church, synagogue, temple, mosque or other religious organization","6,455","6,455",-,-,-,-
+wk1    Shelter or soup kitchen,    Shelter or soup kitchen,-,-,-,-,-,-
+wk1    Other community program,    Other community program,"12,214","12,214",-,-,-,-
+"wk1    Family, friends, or neighbors","    Family, friends, or neighbors","7,548","7,591",-,"1,487",-,-
+wk1    Did not report,    Did not report,"54,260","54,957","16,399","10,142",596,"1,455"
+wk2TotalParticipant,TotalParticipant,"77,676","78,590","30,645","9,243","22,540",939
+wk2    18 - 24,    18 - 24,-,-,-,-,-,-
+wk2    25 - 39,    25 - 39,"60,310","53,120","25,735","8,145","4,056",-
+wk2    40 - 54,    40 - 54,"41,750","35,865","21,936","4,484",-,939
+wk2    55 - 64,    55 - 64,"43,914","42,853","1,931",-,"1,195",-
+wk2    65 and above,    65 and above,"26,010","14,617","7,808",-,"22,142",-
+wk2Sex ,Sex ,,,,,,
+wk2    Male,    Male,"51,239","51,037","21,190","6,628","4,056",-
+wk2    Female,    Female,"65,972","64,141","24,181","6,671","22,122",939
+wk2Hispanic origin and Race ,Hispanic origin and Race ,,,,,,
+wk2    Hispanic or Latino (may be of any race),    Hispanic or Latino (may be of any race),"31,761","24,938","11,645",-,"22,142",-
+"wk2    White alone, not Hispanic","    White alone, not Hispanic","44,535","40,695","18,440","8,288",-,-
+"wk2    Black alone, not Hispanic","    Black alone, not Hispanic","20,187","12,402","14,313",-,"1,195",-
+"wk2    Asian alone, not Hispanic","    Asian alone, not Hispanic","35,215","33,548","12,257",-,-,939
+"wk2    Two or more races + Other races, not Hispanic","    Two or more races + Other races, not Hispanic","45,712","42,551","19,479","4,299","4,056",-
+wk2Education ,Education ,,,,,,
+wk2    Less than high school,    Less than high school,"40,603","31,965","8,972",-,"22,142",-
+wk2    High school or GED,    High school or GED,"44,407","40,797","17,015","6,180",-,-
+wk2    Some college/associate’s degree,    Some college/associate’s degree,"41,758","42,983","26,573","6,628","4,056",-
+wk2    Bachelor’s degree or higher,    Bachelor’s degree or higher,"44,080","43,675","12,475","1,838","1,195",939
+wk2Marital status ,Marital status ,,,,,,
+wk2    Married,    Married,"64,967","69,593","26,186","6,628","22,564",939
+wk2    Widowed,    Widowed,"3,725","3,725",-,-,-,-
+wk2    Divorced/separated,    Divorced/separated,"37,916","36,855","8,517",-,-,-
+wk2    Never married,    Never married,"30,759","15,323","21,841","6,671","1,195",-
+wk2    Did not report,    Did not report,"1,852","1,852",-,-,-,-
+wk2Respondent or household member experienced loss of employment income ,Respondent or household member experienced loss of employment income ,,,,,,
+wk2    Yes,    Yes,"60,160","59,289","26,098","1,838","22,564",-
+wk2    No,    No,"60,366","59,129","17,805","8,789","1,195",939
+wk2    Did not report,    Did not report,-,-,-,-,-,-
+wk2Respondent currently employed ,Respondent currently employed ,,,,,,
+wk2    Yes,    Yes,"67,112","64,175","22,123","6,180",-,939
+wk2    No,    No,"55,612","44,422","22,308","7,014","22,540",-
+wk2    Did not report,    Did not report,-,-,-,-,-,-
+wk2Reason for not working ,Reason for not working ,,,,,,
+wk2    Did not want to be employed,    Did not want to be employed,"5,131","5,131",-,-,-,-
+wk2    Sick with coronavirus symptoms,    Sick with coronavirus symptoms,"22,027",884,-,-,"22,142",-
+wk2    Caring for someone with coronavirus symptoms,    Caring for someone with coronavirus symptoms,-,-,-,-,-,-
+wk2    Caring for children not in school or daycare,    Caring for children not in school or daycare,"30,025","28,856","10,573","1,838",-,-
+wk2    Caring for an elderly person,    Caring for an elderly person,-,-,-,-,-,-
+wk2    Sick (not coronavirus related) or disabled,    Sick (not coronavirus related) or disabled,"2,038","1,628",-,-,"1,195",-
+wk2    Retired,    Retired,"15,558","14,009","7,808",-,-,-
+wk2    Coronavirus pandemic related reduction in business (including furlough),    Coronavirus pandemic related reduction in business (including furlough),"10,092","7,733","1,456","6,628",-,-
+wk2    Laid off due to coronavirus pandemic,    Laid off due to coronavirus pandemic,"23,911","23,474","1,705",-,"4,056",-
+wk2    Employment closed temporarily due to the coronavirus pandemic,    Employment closed temporarily due to the coronavirus pandemic,"26,830","16,772","19,396",-,-,-
+wk2    Employment went out of business due to the coronavirus pandemic,    Employment went out of business due to the coronavirus pandemic,-,-,-,-,-,-
+wk2    Other reason,    Other reason,"13,949","13,297","3,591",-,-,-
+wk2    Did not report,    Did not report,"67,112","64,175","22,123","6,180",-,939
+wk2Receiving pay for the time not working ,Receiving pay for the time not working ,,,,,,
+wk2    Using paid leave,    Using paid leave,"3,030","3,030",-,-,-,-
+"wk2    Full pay, not taking leave","    Full pay, not taking leave","8,471","1,830","8,406",-,-,-
+wk2    Partial pay,    Partial pay,-,-,-,-,-,-
+wk2    No pay,    No pay,"54,632","42,852","20,469","7,014","22,540",-
+wk2    Did not report,    Did not report,"67,242","64,302","22,123","6,180",-,939
+wk2Household income ,Household income ,,,,,,
+"wk2    Less than $25,000","    Less than $25,000","31,267","20,510","9,078",-,"22,540",-
+"wk2    $25,000 - $34,999","    $25,000 - $34,999","21,959","18,773","9,395",-,-,-
+"wk2    $35,000 - $49,999","    $35,000 - $49,999","28,022","26,474","9,141","4,484",-,-
+"wk2    $50,000 - $74,999","    $50,000 - $74,999","32,290","29,365","15,434","4,299",-,-
+"wk2    $75,000 - $99,999","    $75,000 - $99,999","20,381","19,263","1,566","6,628",-,-
+"wk2    $100,000 - $149,999","    $100,000 - $149,999","21,997","20,077","6,259",-,-,-
+"wk2    $150,000 - $199,999","    $150,000 - $199,999","29,736","15,955","24,307",-,-,-
+"wk2    $200,000 and above","    $200,000 and above","52,953","52,859","5,018",-,-,-
+wk2    Did not report,    Did not report,"22,931","19,476","9,301","1,838",-,939
+wk2Health status ,Health status ,,,,,,
+wk2    Excellent,    Excellent,"54,015","55,107","9,203",-,-,-
+wk2    Very good,    Very good,"38,137","37,159","12,817",-,-,-
+wk2    Good,    Good,"48,412","39,718","25,070","9,243",-,-
+wk2    Fair,    Fair,"24,175","18,526","15,235",-,"4,207",-
+wk2    Poor,    Poor,"22,531","2,109","7,808",-,"22,142",-
+wk2    Did not report,    Did not report,"13,517","9,936","7,712",-,-,939
+"wk2Frequency of feeling nervous, anxious, on edge ","Frequency of feeling nervous, anxious, on edge ",,,,,,
+wk2    Not at all,    Not at all,"58,787","55,230","14,618",-,-,-
+wk2    Several days,    Several days,"37,020","31,329","14,930","6,671","4,207",-
+wk2    More than half the days,    More than half the days,"32,091","30,132","5,518","6,628",-,-
+wk2    Nearly every day,    Nearly every day,"47,395","37,023","25,933",-,"22,142",-
+wk2    Did not report,    Did not report,"13,517","9,936","7,712",-,-,939
+wk2Frequency of not being able to stop or control worrying ,Frequency of not being able to stop or control worrying ,,,,,,
+wk2    Not at all,    Not at all,"53,107","54,172","14,455",-,-,-
+wk2    Several days,    Several days,"43,937","38,265","15,885","6,671","4,056",-
+wk2    More than half the days,    More than half the days,"34,777","28,948","17,159","6,628","1,195",-
+wk2    Nearly every day,    Nearly every day,"39,826","31,065","20,232",-,"22,142",-
+wk2    Did not report,    Did not report,"13,517","9,936","7,712",-,-,939
+wk2Frequency of having little interest or pleasure in doing things ,Frequency of having little interest or pleasure in doing things ,,,,,,
+wk2    Not at all,    Not at all,"55,761","53,111","17,055",-,-,-
+wk2    Several days,    Several days,"47,804","45,228","12,974","6,180","4,056",-
+wk2    More than half the days,    More than half the days,"45,450","29,752","24,381","7,014","22,122",-
+wk2    Nearly every day,    Nearly every day,"19,952","21,299","5,968",-,-,-
+wk2    Did not report,    Did not report,"13,517","9,936","7,712",-,-,939
+"wk2Frequency of feeling down, depressed, or hopeless ","Frequency of feeling down, depressed, or hopeless ",,,,,,
+wk2    Not at all,    Not at all,"58,929","55,795","16,857",-,-,-
+wk2    Several days,    Several days,"48,978","43,210","23,753","4,926","22,540",-
+wk2    More than half the days,    More than half the days,"40,750","34,580","6,369","7,676",-,-
+wk2    Nearly every day,    Nearly every day,"26,654","22,797","15,893",-,-,-
+wk2    Did not report,    Did not report,"13,517","9,936","7,712",-,-,939
+wk2Covered by health insurance ,Covered by health insurance ,,,,,,
+wk2    Yes,    Yes,"78,596","78,613","29,905","9,243","22,122",-
+wk2    No,    No,"8,961","8,371",-,-,"4,056",-
+wk2    Did not report or don’t know,    Did not report or don’t know,"13,517","9,936","7,712",-,-,939
+wk2Last month's mortgage or rent paid on time ,Last month's mortgage or rent paid on time ,,,,,,
+wk2    Yes,    Yes,"62,612","59,172","21,543","7,676","4,056",-
+wk2    No,    No,"33,899","27,848","19,708","4,926","22,122",-
+wk2    Payment was deferred,    Payment was deferred,"27,545","26,342","7,808",-,-,-
+wk2    Housing owned or payment not required,    Housing owned or payment not required,"22,831","22,831",-,-,-,-
+wk2    Did not report,    Did not report,"19,547","16,764","8,915",-,-,939
+wk2Confidence in paying next rent or mortgage ,Confidence in paying next rent or mortgage ,,,,,,
+wk2    No confidence,    No confidence,"31,017","20,505","9,242",-,"22,122",-
+wk2    Slight confidence,    Slight confidence,"22,846","16,684","7,254","8,145",-,-
+wk2    Moderate confidence,    Moderate confidence,"41,294","38,486","27,743","4,484",-,-
+wk2    High confidence,    High confidence,"60,504","55,170","14,839",-,"4,056",-
+wk2    Payment is/will be deferred,    Payment is/will be deferred,"2,572","2,572",-,-,-,-
+wk2    Did not report,    Did not report,"28,869","27,639","8,915",-,-,939
+wk2Free groceries or free meal in last 7 days ,Free groceries or free meal in last 7 days ,,,,,,
+wk2    Yes,    Yes,"31,168","26,146","12,714","4,299",-,-
+wk2    No,    No,"78,339","73,602","27,126","8,288","22,540",-
+wk2    Did not report,    Did not report,939,-,-,-,-,939
+wk2Provider of free groceries or free meal ,Provider of free groceries or free meal ,,,,,,
+wk2    School or other programs aimed at children,    School or other programs aimed at children,"30,992","25,942","12,714","4,299",-,-
+wk2    Food pantry or food bank,    Food pantry or food bank,-,-,-,-,-,-
+wk2    Home-delivered meal service like Meals on Wheels,    Home-delivered meal service like Meals on Wheels,-,-,-,-,-,-
+"wk2    Church, synagogue, temple, mosque or other religious organization","    Church, synagogue, temple, mosque or other religious organization",-,-,-,-,-,-
+wk2    Shelter or soup kitchen,    Shelter or soup kitchen,386,386,-,-,-,-
+wk2    Other community program,    Other community program,"19,537","19,537",-,-,-,-
+"wk2    Family, friends, or neighbors","    Family, friends, or neighbors","18,908","18,908",-,-,-,-
+wk2    Did not report,    Did not report,"78,073","73,602","27,126","8,288","22,540",939
+wk3Fields,Fields,Total,Enough of the types of food wanted,"Enough food, but not always the types wanted",Sometimes not enough to eat,Often not enough to eat,Did not report
+wk3Total,Total,"920,548","658,594","159,703","45,910","33,666","22,676"
+wk3Age ,Age ,,,,,,
+wk3    18 - 24,    18 - 24,"80,067","48,299","3,603","6,653","16,300","5,213"
+wk3    25 - 39,    25 - 39,"314,168","222,904","69,773","20,951",257,283
+wk3    40 - 54,    40 - 54,"325,913","231,787","56,013","17,124","4,497","16,491"
+wk3    55 - 64,    55 - 64,"139,314","130,551","7,872",242,387,262
+wk3    65 and above,    65 and above,"61,086","25,053","22,441",940,"12,225",427
+wk3Sex ,Sex ,,,,,,
+wk3    Male,    Male,"396,346","258,378","95,815","32,102","3,429","6,622"
+wk3    Female,    Female,"524,202","400,216","63,888","13,808","30,236","16,054"
+wk3Hispanic origin and Race ,Hispanic origin and Race ,,,,,,
+wk3    Hispanic or Latino (may be of any race),    Hispanic or Latino (may be of any race),"106,607","43,657","32,053","7,933","16,300","6,663"
+"wk3    White alone, not Hispanic","    White alone, not Hispanic","501,772","419,375","55,928","23,661",444,"2,364"
+"wk3    Black alone, not Hispanic","    Black alone, not Hispanic","116,687","70,168","28,099","5,022","12,869",530
+"wk3    Asian alone, not Hispanic","    Asian alone, not Hispanic","155,552","103,866","37,865",672,383,"12,766"
+"wk3    Two or more races + Other races, not Hispanic","    Two or more races + Other races, not Hispanic","39,930","21,528","5,758","8,623","3,670",352
+wk3Education ,Education ,,,,,,
+wk3    Less than high school,    Less than high school,"73,338","41,926","1,728","3,312","19,970","6,401"
+wk3    High school or GED,    High school or GED,"159,341","90,997","16,431","25,776","12,611","13,526"
+wk3    Some college/associate’s degree,    Some college/associate’s degree,"259,287","164,687","74,903","16,662","1,084","1,950"
+wk3    Bachelor’s degree or higher,    Bachelor’s degree or higher,"428,582","360,983","66,641",160,-,798
+wk3Marital status ,Marital status ,,,,,,
+wk3    Married,    Married,"619,593","456,712","120,702","14,052","13,489","14,639"
+wk3    Widowed,    Widowed,"9,048","7,566",495,825,-,162
+wk3    Divorced/separated,    Divorced/separated,"100,933","68,733","24,704","4,436",831,"2,229"
+wk3    Never married,    Never married,"190,691","125,549","13,802","26,597","19,346","5,397"
+wk3    Did not report,    Did not report,283,35,-,-,-,249
+wk3Respondent or household member experienced loss of employment income ,Respondent or household member experienced loss of employment income ,,,,,,
+wk3    Yes,    Yes,"410,015","276,020","61,898","34,749","16,979","20,370"
+wk3    No,    No,"510,284","382,574","97,805","11,161","16,687","2,057"
+wk3    Did not report,    Did not report,249,-,-,-,-,249
+wk3Respondent currently employed ,Respondent currently employed ,,,,,,
+wk3    Yes,    Yes,"621,912","452,568","115,299","29,705","17,001","7,339"
+wk3    No,    No,"297,588","206,025","44,196","16,206","16,664","14,497"
+wk3    Did not report,    Did not report,"1,049",-,208,-,-,841
+wk3Reason for not working ,Reason for not working ,,,,,,
+wk3    Did not want to be employed,    Did not want to be employed,"34,689","33,191","1,177",321,-,-
+wk3    Sick with coronavirus symptoms,    Sick with coronavirus symptoms,"12,225",-,-,-,"12,225",-
+wk3    Caring for someone with coronavirus symptoms,    Caring for someone with coronavirus symptoms,951,-,-,951,-,-
+wk3    Caring for children not in school or daycare,    Caring for children not in school or daycare,"101,850","66,867","15,385","3,786","3,046","12,766"
+wk3    Caring for an elderly person,    Caring for an elderly person,888,888,-,-,-,-
+wk3    Sick (not coronavirus related) or disabled,    Sick (not coronavirus related) or disabled,"3,961","2,214",891,470,387,-
+wk3    Retired,    Retired,"18,476","15,117",641,"2,371",-,346
+wk3    Coronavirus pandemic related reduction in business (including furlough),    Coronavirus pandemic related reduction in business (including furlough),"22,731","17,017","3,538","1,793",383,-
+wk3    Laid off due to coronavirus pandemic,    Laid off due to coronavirus pandemic,"23,995","10,698","9,051","4,246",-,-
+wk3    Employment closed temporarily due to the coronavirus pandemic,    Employment closed temporarily due to the coronavirus pandemic,"46,372","35,049","10,159","1,163",-,-
+wk3    Employment went out of business due to the coronavirus pandemic,    Employment went out of business due to the coronavirus pandemic,"2,912","1,503","1,410",-,-,-
+wk3    Other reason,    Other reason,"25,247","21,207",929,"1,103",624,"1,384"
+wk3    Did not report,    Did not report,"626,251","454,842","116,523","29,705","17,001","8,180"
+wk3Receiving pay for the time not working ,Receiving pay for the time not working ,,,,,,
+wk3    Using paid leave,    Using paid leave,"5,985","5,851",-,135,-,-
+"wk3    Full pay, not taking leave","    Full pay, not taking leave","1,544","1,544",-,-,-,-
+wk3    Partial pay,    Partial pay,"2,823",915,827,458,624,-
+wk3    No pay,    No pay,"281,559","192,426","43,369","15,613","15,654","14,497"
+wk3    Did not report,    Did not report,"628,637","457,858","115,507","29,705","17,388","8,180"
+wk3Household income ,Household income ,,,,,,
+"wk3    Less than $25,000","    Less than $25,000","42,041","36,629","3,950","1,461",-,-
+"wk3    $25,000 - $34,999","    $25,000 - $34,999","38,932","16,327","3,567","6,370","12,668",-
+"wk3    $35,000 - $49,999","    $35,000 - $49,999","31,037","15,311","4,303","8,119","3,304",-
+"wk3    $50,000 - $74,999","    $50,000 - $74,999","102,063","57,088","36,524","8,450",-,-
+"wk3    $75,000 - $99,999","    $75,000 - $99,999","109,236","78,375","29,910",951,-,-
+"wk3    $100,000 - $149,999","    $100,000 - $149,999","188,889","143,707","37,538","7,644",-,-
+"wk3    $150,000 - $199,999","    $150,000 - $199,999","64,547","52,430","12,117",-,-,-
+"wk3    $200,000 and above","    $200,000 and above","213,357","198,887","7,817","6,653",-,-
+wk3    Did not report,    Did not report,"130,447","59,839","23,977","6,261","17,693","22,676"
+wk3Health status ,Health status ,,,,,,
+wk3    Excellent,    Excellent,"266,766","234,061","26,167","6,538",-,-
+wk3    Very good,    Very good,"349,676","256,757","75,542","16,675",701,-
+wk3    Good,    Good,"127,783","88,015","32,981","3,741","3,046",-
+wk3    Fair,    Fair,"58,460","36,211","7,465","14,784",-,-
+wk3    Poor,    Poor,"20,628","5,946","1,793",664,"12,225",-
+wk3    Did not report,    Did not report,"97,236","37,604","15,754","3,508","17,693","22,676"
+"wk3Frequency of feeling nervous, anxious, on edge ","Frequency of feeling nervous, anxious, on edge ",,,,,,
+wk3    Not at all,    Not at all,"275,592","235,903","39,372",317,-,-
+wk3    Several days,    Several days,"316,118","202,578","83,577","14,435","15,528",-
+wk3    More than half the days,    More than half the days,"102,757","79,920","8,874","13,963",-,-
+wk3    Nearly every day,    Nearly every day,"128,139","101,882","12,126","13,686",444,-
+wk3    Did not report,    Did not report,"97,942","38,310","15,754","3,508","17,693","22,676"
+wk3Frequency of not being able to stop or control worrying ,Frequency of not being able to stop or control worrying ,,,,,,
+wk3    Not at all,    Not at all,"390,212","317,203","71,696","1,313",-,-
+wk3    Several days,    Several days,"227,576","166,616","33,186","14,848","12,926",-
+wk3    More than half the days,    More than half the days,"120,986","75,654","34,287","11,044",-,-
+wk3    Nearly every day,    Nearly every day,"83,889","60,867","4,780","15,196","3,046",-
+wk3    Did not report,    Did not report,"97,885","38,253","15,754","3,508","17,693","22,676"
+wk3Frequency of having little interest or pleasure in doing things ,Frequency of having little interest or pleasure in doing things ,,,,,,
+wk3    Not at all,    Not at all,"401,850","359,101","40,928","1,821",-,-
+wk3    Several days,    Several days,"286,147","192,464","65,429","15,328","12,926",-
+wk3    More than half the days,    More than half the days,"88,704","45,188","33,731","9,785",-,-
+wk3    Nearly every day,    Nearly every day,"43,621","21,246","3,862","15,467","3,046",-
+wk3    Did not report,    Did not report,"100,227","40,595","15,754","3,508","17,693","22,676"
+"wk3Frequency of feeling down, depressed, or hopeless ","Frequency of feeling down, depressed, or hopeless ",,,,,,
+wk3    Not at all,    Not at all,"398,790","320,169","70,388","8,232",-,-
+wk3    Several days,    Several days,"282,663","210,611","55,831","15,519",701,-
+wk3    More than half the days,    More than half the days,"100,217","65,412","13,215","9,366","12,225",-
+wk3    Nearly every day,    Nearly every day,"38,151","21,777","4,514","8,815","3,046",-
+wk3    Did not report,    Did not report,"100,727","40,625","15,754","3,978","17,693","22,676"
+wk3Covered by health insurance ,Covered by health insurance ,,,,,,
+wk3    Yes,    Yes,"784,710","594,873","138,089","36,033","15,715",-
+wk3    No,    No,"24,729","15,344","3,230","5,898",257,-
+wk3    Did not report or don’t know,    Did not report or don’t know,"111,109","48,377","18,384","3,978","17,693","22,676"
+wk3Last month's mortgage or rent paid on time ,Last month's mortgage or rent paid on time ,,,,,,
+wk3    Yes,    Yes,"634,929","480,537","132,064","18,838","3,490",-
+wk3    No,    No,"105,858","79,034","7,029","7,314","12,482",-
+wk3    Payment was deferred,    Payment was deferred,"16,900","6,795",892,"9,212",-,-
+wk3    Housing owned or payment not required,    Housing owned or payment not required,"54,077","46,821","1,837","5,419",-,-
+wk3    Did not report,    Did not report,"108,783","45,407","17,881","5,126","17,693","22,676"
+wk3Confidence in paying next rent or mortgage ,Confidence in paying next rent or mortgage ,,,,,,
+wk3    No confidence,    No confidence,"53,700","27,677","6,312","4,183","15,528",-
+wk3    Slight confidence,    Slight confidence,"84,832","50,209","17,088","17,091",444,-
+wk3    Moderate confidence,    Moderate confidence,"126,918","89,554","29,926","7,438",-,-
+wk3    High confidence,    High confidence,"480,027","387,044","86,330","6,653",-,-
+wk3    Payment is/will be deferred,    Payment is/will be deferred,"12,247","11,917",330,-,-,-
+wk3    Did not report,    Did not report,"162,825","92,192","19,718","10,545","17,693","22,676"
+wk3Free groceries or free meal in last 7 days ,Free groceries or free meal in last 7 days ,,,,,,
+wk3    Yes,    Yes,"95,411","52,709","40,786","1,915",-,-
+wk3    No,    No,"796,132","605,661","117,372","39,249","33,666",185
+wk3    Did not report,    Did not report,"29,005",224,"1,545","4,745",-,"22,492"
+wk3Provider of free groceries or free meal * ,Provider of free groceries or free meal * ,,,,,,
+wk3    School or other programs aimed at children,    School or other programs aimed at children,"88,802","47,240","39,968","1,594",-,-
+wk3    Food pantry or food bank,    Food pantry or food bank,"8,183","7,137",905,141,-,-
+wk3    Home-delivered meal service like Meals on Wheels,    Home-delivered meal service like Meals on Wheels,"1,653","1,653",-,-,-,-
+"wk3    Church, synagogue, temple, mosque or other religious organization","    Church, synagogue, temple, mosque or other religious organization","6,997","1,533","5,464",-,-,-
+wk3    Shelter or soup kitchen,    Shelter or soup kitchen,-,-,-,-,-,-
+wk3    Other community program,    Other community program,"4,030","3,461",247,321,-,-
+"wk3    Family, friends, or neighbors","    Family, friends, or neighbors","30,139","28,646",989,504,-,-
+wk3    Did not report,    Did not report,"825,773","605,988","119,449","43,995","33,666","22,676"
+wk3* Totals may not sum to 100% as the question allowed for multiple categories to be marked.,* Totals may not sum to 100% as the question allowed for multiple categories to be marked.,,,,,,

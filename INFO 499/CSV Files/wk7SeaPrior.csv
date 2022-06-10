@@ -1,0 +1,146 @@
+﻿Fields,Total,Enough of the types of food wanted,"Enough food, but not always the types wanted",Sometimes not enough to eat,Often not enough to eat,Did not report
+,,,,,,
+Total,"1,176,019","830,753","274,521","25,908","24,162","20,675"
+Age ,,,,,,
+    18 - 24,"132,641","54,562","61,368",-,-,"16,710"
+    25 - 39,"392,841","246,244","135,646","7,569","1,854","1,529"
+    40 - 54,"443,581","346,972","59,046","14,163","21,659","1,741"
+    55 - 64,"104,386","97,395","2,265","3,381",649,696
+    65 and above,"102,570","85,580","16,196",795,-,-
+Sex ,,,,,,
+    Male,"583,155","425,536","124,407","1,730","21,425","10,057"
+    Female,"592,864","405,217","150,114","24,178","2,737","10,618"
+Hispanic origin and Race ,,,,,,
+    Hispanic or Latino (may be of any race),"218,608","108,593","106,336","2,497",-,"1,182"
+"    White alone, not Hispanic","612,067","490,638","85,555","16,379","1,531","17,964"
+"    Black alone, not Hispanic","57,451","17,470","36,939","3,043",-,-
+"    Asian alone, not Hispanic","154,592","120,771","12,835","3,709","15,748","1,529"
+"    Two or more races + Other races, not Hispanic","133,300","93,282","32,855",281,"6,883",-
+Education ,,,,,,
+    Less than high school,"51,447","33,487","17,960",-,-,-
+    High school or GED,"351,298","188,962","135,830","12,443","1,854","12,210"
+    Some college/associate’s degree,"334,538","239,455","65,625","13,100","11,856","4,501"
+    Bachelor’s degree or higher,"438,736","368,848","55,106",365,"10,452","3,965"
+Marital status ,,,,,,
+    Married,"724,718","573,230","125,940","2,036","21,425","2,087"
+    Widowed,"5,803","5,009",-,795,-,-
+    Divorced/separated,"101,822","82,848","4,039","14,240",-,696
+    Never married,"343,676","169,666","144,542","8,838","2,737","17,893"
+    Did not report,-,-,-,-,-,-
+Household size ,,,,,,
+    1 person in the household,-,-,-,-,-,-
+    2 people in the household,"29,956","21,617","6,204",281,"1,854",-
+    3 people in the household,"223,110","156,906","51,501","8,795","1,531","4,376"
+    4 people in the household,"333,917","273,298","37,596","7,090","8,996","6,937"
+    5 people in the household,"315,039","193,782","114,279",551,"4,898","1,529"
+    6 people in the household,"114,742","77,461","28,090","9,190",-,-
+    7 or more people in the household,"159,256","107,688","36,851",-,"6,883","7,833"
+Respondent or household member experienced loss of employment income ,,,,,,
+    Yes,"635,071","411,397","179,099","18,773","21,425","4,376"
+    No,"539,694","419,355","95,422","7,134","2,737","15,045"
+    Did not report,"1,254",-,-,-,-,"1,254"
+Respondent currently employed ,,,,,,
+    Yes,"759,666","573,952","159,774","7,453","3,442","15,045"
+    No,"415,099","256,801","114,747","18,455","20,721","4,376"
+    Did not report,"1,254",-,-,-,-,"1,254"
+Reason for not working ,,,,,,
+    Did not want to be employed,"75,350","64,500",-,-,"10,850",-
+    Sick with coronavirus symptoms,-,-,-,-,-,-
+    Caring for someone with coronavirus symptoms,-,-,-,-,-,-
+    Caring for children not in school or daycare,"94,091","60,488","30,561","3,043",-,-
+    Caring for an elderly person,"1,192","1,192",-,-,-,-
+    Sick (not coronavirus related) or disabled,"20,622","1,499","17,960",281,883,-
+    Retired,"29,894","12,255","16,196",795,649,-
+    Coronavirus pandemic related reduction in business (including furlough),"52,789","52,424",-,365,-,-
+    Laid off due to coronavirus pandemic,"34,812","16,534","13,112","3,709","1,456",-
+    Employment closed temporarily due to the coronavirus pandemic,"45,270","6,225","34,362",306,-,"4,376"
+    Employment went out of business due to the coronavirus pandemic,"15,841","8,958",-,-,"6,883",-
+    Other reason,"34,554","29,604","2,453","2,497",-,-
+    Did not report,"760,919","573,952","159,774","7,453","3,442","16,299"
+Receiving pay for the time not working ,,,,,,
+    Using paid leave,"26,995","26,995",-,-,-,-
+"    Full pay, not taking leave","6,274",-,324,"1,574",-,"4,376"
+    Partial pay,"15,806","13,475","2,331",-,-,-
+    No pay,"363,244","214,200","112,091","16,881","20,072",-
+    Did not report,"763,700","576,084","159,774","7,453","4,090","16,299"
+Household income ,,,,,,
+"    Less than $25,000","174,796","51,028","100,928","15,074","7,766",-
+"    $25,000 - $34,999","39,312","14,051","20,393","4,868",-,-
+"    $35,000 - $49,999","110,298","68,036","38,778","3,485",-,-
+"    $50,000 - $74,999","78,886","66,718","10,980","1,189",-,-
+"    $75,000 - $99,999","187,173","144,805","41,186",-,-,"1,182"
+"    $100,000 - $149,999","118,333","88,499","29,833",-,-,-
+"    $150,000 - $199,999","122,302","110,613","10,234",-,"1,456",-
+"    $200,000 and above","200,870","179,654","12,220",-,"8,996",-
+    Did not report,"144,048","107,349","9,968","1,293","5,945","19,493"
+Used in the last 7 days to meet spending needs* ,,,,,,
+    Regular income sources like those used before the pandemic,"829,374","638,952","165,596","6,763","4,324","13,738"
+    Credit cards or loans,"343,756","238,563","93,293","3,163","8,737",-
+    Money from savings or selling assets,"353,146","261,970","71,433","9,337",-,"10,406"
+    Borrowing from friends or family,"132,494","46,377","68,375","14,300","3,442",-
+    Unemployment insurance (UI) benefit payments,"185,541","116,613","62,301","1,730","4,898",-
+    Stimulus (economic impact) payment,"295,572","242,148","30,039","18,412","4,973",-
+    Money saved from deferred or forgiven payments (to meet spending needs),"80,728","36,424","33,851",-,"10,452",-
+    Did not report,"9,615","2,369","3,536","1,273",-,"2,436"
+Health status ,,,,,,
+    Excellent,"249,807","235,133","4,170","10,503",-,-
+    Very good,"346,795","296,691","48,574",883,649,-
+    Good,"338,736","193,056","131,442","5,422","7,635","1,182"
+    Fair,"163,149","72,607","81,442","9,100",-,-
+    Poor,"16,271",393,-,-,"15,879",-
+    Did not report,"61,259","32,874","8,893",-,-,"19,493"
+"Frequency of feeling nervous, anxious, on edge ",,,,,,
+    Not at all,"287,621","230,335","57,286",-,-,-
+    Several days,"459,263","368,969","82,962","6,150",-,"1,182"
+    More than half the days,"171,688","58,846","101,528","7,929","3,386",-
+    Nearly every day,"192,461","136,003","23,852","11,829","20,777",-
+    Did not report,"64,985","36,600","8,893",-,-,"19,493"
+Frequency of not being able to stop or control worrying ,,,,,,
+    Not at all,"374,381","314,361","60,020",-,-,-
+    Several days,"418,325","314,960","94,617","6,683",883,"1,182"
+    More than half the days,"162,472","65,056","88,078","8,689",649,-
+    Nearly every day,"159,582","103,502","22,913","10,536","22,631",-
+    Did not report,"61,259","32,874","8,893",-,-,"19,493"
+Frequency of having little interest or pleasure in doing things ,,,,,,
+    Not at all,"504,120","372,000","132,120",-,-,-
+    Several days,"352,700","241,692","95,023","10,711","4,090","1,182"
+    More than half the days,"138,821","98,693","34,954","5,174",-,-
+    Nearly every day,"119,118","85,494","3,530","10,023","20,072",-
+    Did not report,"61,259","32,874","8,893",-,-,"19,493"
+"Frequency of feeling down, depressed, or hopeless ",,,,,,
+    Not at all,"358,152","267,934","90,219",-,-,-
+    Several days,"426,693","362,397","54,260","8,854",-,"1,182"
+    More than half the days,"226,182","100,300","116,614","4,296","4,973",-
+    Nearly every day,"103,731","67,249","4,535","12,758","19,190",-
+    Did not report,"61,259","32,874","8,893",-,-,"19,493"
+Covered by health insurance ,,,,,,
+    Yes,"934,358","729,276","170,356","25,908","7,635","1,182"
+    No,"173,238","62,088","95,271",-,"15,879",-
+    Did not report or don’t know,"68,422","39,388","8,893",-,649,"19,493"
+Last month's mortgage or rent paid on time ,,,,,,
+    Yes,"854,634","665,435","183,308","5,890",-,-
+    No,"81,549","18,821","37,518","15,016","10,194",-
+    Payment was deferred,"30,575","6,498","19,486","3,709",883,-
+    Housing owned or payment not required,"139,404","102,617","25,315","1,293","8,996","1,182"
+    Did not report,"69,857","37,381","8,893",-,"4,090","19,493"
+Confidence in paying next rent or mortgage ,,,,,,
+    No confidence,"24,246","7,019",722,"7,767","8,737",-
+    Slight confidence,"107,968","23,815","68,050","15,221",883,-
+    Moderate confidence,"229,154","120,807","105,264","1,627","1,456",-
+    High confidence,"585,877","537,995","47,882",-,-,-
+    Payment is/will be deferred,"19,513","1,118","18,395",-,-,-
+    Did not report,"209,261","139,999","34,208","1,293","13,086","20,675"
+Free groceries or free meal in last 7 days ,,,,,,
+    Yes,"122,539","75,221","42,436","2,777","2,105",-
+    No,"1,031,185","755,532","229,283","23,130","22,057","1,182"
+    Did not report,"22,294",-,"2,802",-,-,"19,493"
+Provider of free groceries or free meal * ,,,,,,
+    School or other programs aimed at children,"72,101","27,672","41,398","1,574","1,456",-
+    Food pantry or food bank,"17,371","2,968","12,550","1,204",649,-
+    Home-delivered meal service like Meals on Wheels,324,-,324,-,-,-
+"    Church, synagogue, temple, mosque or other religious organization","5,581","5,581",-,-,-,-
+    Shelter or soup kitchen,-,-,-,-,-,-
+    Other community program,"8,019","6,982","1,037",-,-,-
+"    Family, friends, or neighbors","44,462","41,038",927,"2,497",-,-
+    Did not report,"1,060,866","762,918","232,085","23,130","22,057","20,675"
+* Totals may not sum to 100% as the question allowed for multiple categories to be marked.,,,,,,
